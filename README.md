@@ -25,10 +25,10 @@
 <br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=aimanim&hide=issues&show_icons=true" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=aimanim&hide=issues&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanim&hide_progress=true" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanim&hide_progress=true" />
 </a>
 
   
