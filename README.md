@@ -1,7 +1,7 @@
 <div id="header" align="left">
   <img src="https://i.postimg.cc/rwn9c7p8/banner.jpg" width="1000"/>
 </div>
-<br>A tech enthusiast, junior enrolled in the BSCS program at FAST-NUCES. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; 
+<br>A tech enthusiast, junior enrolled in the BSCS program at FAST-NUCES. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.linkedin.com/in/aiman-imran-194522214">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="30"/>
   </a>&nbsp; &nbsp; 
@@ -25,10 +25,10 @@
 <br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aimanim&hide=issues&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=aimanim&hide=issues&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanim&hide_progress=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanim&hide_progress=true" />
 </a>
 
   
