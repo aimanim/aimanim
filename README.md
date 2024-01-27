@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div id="header" align="left">
+  <img src="https://i.postimg.cc/rwn9c7p8/banner.jpg" width="1000"/>
+</div>
 <!--
 **aimanim/aimanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
